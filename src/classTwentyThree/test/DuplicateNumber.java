@@ -19,7 +19,7 @@ public class DuplicateNumber {
 
 
         }
-        if (!hasDuplicate) {
+        if (!hasDuplicate) { 
             System.out.println("Duplicate not found.");
         }
 
