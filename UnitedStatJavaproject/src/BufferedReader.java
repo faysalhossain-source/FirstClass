@@ -19,7 +19,7 @@ class Main {
         DatabaseHandler.insertData(data);
 
         
-        data = DatabaseHandler.insertData();
+       // data = DatabaseHandler.insertData();
 
 
         ChangeTheName.updateNames(data, "newName");
