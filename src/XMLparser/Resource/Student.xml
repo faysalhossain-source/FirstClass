@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+    <student>
+        <name>
+            John Doe
+        </name>
+        <id>101</id>
+        <class>10A</class>
+    </student>
+    <student>
+        <name>
+            John Smith
+        </name>
+        <id>102</id>
+        <class>108</class>
+    </student>
+</students>

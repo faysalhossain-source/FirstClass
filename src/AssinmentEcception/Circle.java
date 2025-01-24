@@ -1,6 +1,3 @@
-package BeginnerJaVa.AssinmentEcception;
-
-// Circle.java
 public class Circle extends Shape {
     private double radius;
 
