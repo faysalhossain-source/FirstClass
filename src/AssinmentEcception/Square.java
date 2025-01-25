@@ -1,4 +1,3 @@
-package AssinmentEcception;
 public class Square extends Rectangle {
 
     public Square(double side) throws NegativeNumberNotSupported {
